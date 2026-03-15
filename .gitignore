@@ -61,6 +61,7 @@ public/scripts/live2dcubismcore.min.js
 !/public/vrm/nikechan_v1.vrm
 !/public/vrm/nikechan_v2.vrm
 !/public/vrm/nikechan_v2_outerwear.vrm
+!/public/vrm/suchan_model_1.0.vrm
 
 # Background files
 /public/backgrounds/*
