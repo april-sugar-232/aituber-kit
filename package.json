@@ -6,7 +6,7 @@
     "dev": "next dev",
     "dev-https": "next dev --experimental-https",
     "build": "next build",
-    "start": "next build && next start",
+    "start": "next start -p 8080",
     "export": "next export",
     "lint": "next lint",
     "lint:fix": "eslint --fix .",
